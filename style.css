@@ -1,0 +1,22 @@
+*{
+margin: 0;
+padding: 0;
+
+
+}
+.Texto-básico {
+    background-color: #F5F5F5;
+    
+
+}
+
+.Texto-chamativo {
+    background-color: #f0CCE2;
+
+}
+
+.texto {
+    margin: 40px;
+    padding: 20px;
+
+}
